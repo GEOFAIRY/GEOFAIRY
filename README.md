@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="GEOFAIRY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GEOFAIRY&count_private=true&show_icons=true&theme=colbalt" />
+  <img style="margin-right: 100%" align="left" alt="GEOFAIRY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GEOFAIRY&count_private=true&show_icons=true&theme=colbalt" />
 </details>
 
 <br />
