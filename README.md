@@ -37,6 +37,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 
+<br />
+<br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEOFAIRY&count_private=true&show_icons=true&theme=colbalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFAIRY)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [nzesl]: https://electronicshelflabelling.co.nz/
 [rides.co]: https://rides.co/
 [website]: http://kyranstagg.co.nz/
