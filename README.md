@@ -12,7 +12,7 @@
 - 🎨 Fun Fact: I enjoy painting Warhammer models and Bird Watching
 
 ### Spotify Playing 🎧
-&nbsp; <br> [![Spotify](https://geofairy.vercel.app/api/spotify)](https://open.spotify.com/user/1295376350)
+&nbsp; <br> [![Spotify](https://novatorem-bp2l7f2qr.vercel.app/api/spotify)](https://open.spotify.com/user/1295376350)
 
 ### Connect with me:
 
