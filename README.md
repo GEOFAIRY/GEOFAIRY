@@ -1,7 +1,7 @@
 ### Hello, I'm Kyran a.k.a [GEOFAIRY][website] 🙋‍♂️
 
 [![website](https://img.shields.io/website?style=for-the-badge&url=http%3A%2F%2Fkyranstagg.co.nz)](http://kyranstagg.co.nz/)
-[![](https://img.shields.io/badge/OOP-Overrated-orange)]()
+[![](https://img.shields.io/badge/OOP-Overrated-orange?style=for-the-badge&logo=appveyor)]()
 
 ## I'm a Graduate Developer, Gamer and Fixer-upper
 
