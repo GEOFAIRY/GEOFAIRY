@@ -1,5 +1,8 @@
 ### Hello, I'm Kyran a.k.a [GEOFAIRY][website] 🙋‍♂️
 
+[![website](https://img.shields.io/website?style=for-the-badge&url=http%3A%2F%2Fkyranstagg.co.nz)](http://kyranstagg.co.nz/)
+[![](https://img.shields.io/badge/OOP-Overrated-orange)]()
+
 ## I'm a Graduate Developer, Gamer and Fixer-upper
 
 - 💼 I'm Currently working for [NZESL]
@@ -41,6 +44,8 @@
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEOFAIRY&count_private=true&show_icons=true&theme=colbalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFAIRY)](https://github.com/anuraghazra/github-readme-stats)
 
 
