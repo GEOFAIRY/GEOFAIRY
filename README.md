@@ -11,6 +11,9 @@
 - 🥅 2020 Goals: Learn Deno and Vue3!
 - 🎨 Fun Fact: I enjoy painting Warhammer models and Bird Watching
 
+### Spotify Playing 🎧
+[![Spotify](https://GEOFAIRY.vercel.app/api/spotify)](https://open.spotify.com/user/1295376350)
+
 ### Connect with me:
 
 [<img align="left" alt="kyranstagg.co.nz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
