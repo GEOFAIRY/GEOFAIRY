@@ -49,6 +49,8 @@
   <img align="left" alt="GEOFAIRY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GEOFAIRY&count_private=true&show_icons=true&theme=colbalt" />
 </details>
 
+<br />
+<br />
 
 <details>
   <summary>:zap: Github Languages</summary>
@@ -57,7 +59,6 @@
 </details>
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFAIRY)
 
 
 [nzesl]: https://electronicshelflabelling.co.nz/
