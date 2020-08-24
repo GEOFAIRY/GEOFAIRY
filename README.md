@@ -46,7 +46,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEOFAIRY&count_private=true&show_icons=true&theme=colbalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFAIRY)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEOFAIRY)
 
 
 [nzesl]: https://electronicshelflabelling.co.nz/
