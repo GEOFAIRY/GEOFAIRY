@@ -5,9 +5,7 @@
 
 ## I'm a Graduate Developer, Gamer and Fixer-upper
 
-- 💼 I'm Currently working for [NZESL]
-- ⚒ I'm Currently working for [Rides.co]
-- 🔍 I'm looking for work in Wellington New Zealand!
+- 💼 I'm Currently working for [Arlo]
 - 🥅 2020 Goals: Learn Deno and Vue3!
 - 🎨 Fun Fact: I enjoy painting Warhammer models and Bird Watching
 
@@ -64,8 +62,7 @@
 <br />
 
 
-[nzesl]: https://electronicshelflabelling.co.nz/
-[rides.co]: https://rides.co/
+[Arlo]: http://arlo.co/
 [website]: http://kyranstagg.co.nz/
 [linkedin]: https://linkedin.com/in/kyran-stagg
 [email]: mailto:krs19@live.com/
