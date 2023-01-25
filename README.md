@@ -5,7 +5,7 @@
 
 ## I'm a Graduate Developer, Gamer and Fixer-upper
 
-- 💼 I'm Currently working for [Arlo]
+- 💼 I'm Currently working for [EPL]
 - 💪 Hunting new technologies to learn
 - 🎨 Fun Fact: I enjoy painting Warhammer models and Bird Watching
 
@@ -62,7 +62,7 @@
 <br />
 
 
-[Arlo]: http://arlo.co/
+[EPL]: https://educationpayroll.co.nz/
 [website]: http://kyranstagg.co.nz/
 [linkedin]: https://linkedin.com/in/kyran-stagg
 [email]: mailto:krs19@live.com/
