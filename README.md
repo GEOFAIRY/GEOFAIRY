@@ -5,7 +5,7 @@
 
 ## I'm a Graduate Developer, Gamer and Fixer-upper
 
-- 💼 I'm Currently working for [EPL]
+- 💼 I'm Currently working for Admiral Insurance
 - 💪 Hunting new technologies to learn
 - 🎨 Fun Fact: I enjoy painting Warhammer models and Bird Watching
 
