@@ -3,7 +3,7 @@
 [![website](https://img.shields.io/website?style=for-the-badge&url=http%3A%2F%2Fkyranstagg.co.nz)](http://kyranstagg.co.nz/)
 [![](https://img.shields.io/badge/OOP-Overrated-orange?style=for-the-badge&logo=appveyor)]()
 
-## I'm a Graduate Developer, Gamer and Fixer-upper
+## I'm a Senior Developer, Gamer and Fixer-upper
 
 - 💼 I'm Currently working for Admiral Insurance
 - 💪 Hunting new technologies to learn
